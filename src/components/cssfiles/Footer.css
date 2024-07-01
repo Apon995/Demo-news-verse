@@ -1,0 +1,17 @@
+#socialIcons > div {
+  border: 1px solid white;
+  padding: 10px 15px;
+  font-size: 20px;
+  transition: all 0.8s ease-in;
+}
+
+#socialIcons > div:hover {
+  cursor: pointer;
+  scale: 1.1;
+  border-radius: 6px;
+  font-weight: 600;
+}
+
+.Links > li > a:hover {
+  border-bottom: 1px solid #ffff;
+}

@@ -1,0 +1,26 @@
+nav{
+    display: flex ;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 12px;
+    background-color: rgba(0, 0, 0, 0.945);
+    color: white;
+}
+
+nav > h1{
+
+    text-decoration: solid;
+    font-style: italic;
+    font-size: 20px ;
+    color: wheat;
+}
+
+nav > div > button {
+    background-color: greenyellow;
+    color:black;
+    font-size: 14px;
+    padding: 5px 10px;
+    border-radius: 5px;
+     
+}
